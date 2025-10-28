@@ -1,6 +1,6 @@
 # PalmX AI - Legal Documents
 
-This repository contains the legal documents for PalmX AI mobile application https://play.google.com/apps/test/com.cognigrove.the_oil_palm_app/3.
+This repository contains the legal documents for PalmX AI mobile application [https://play.google.com/apps/test/com.cognigrove.the_oil_palm_app/3](https://play.google.com/store/apps/details?id=com.cognigrove.the_oil_palm_app).
 
 ## Documents
 
